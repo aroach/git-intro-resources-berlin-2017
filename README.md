@@ -1,11 +1,13 @@
 # Workshop and Classroom Resources
 Resources for those participating in my git sessions at Cisco Live EMEAR and ANZ 2017
 
-Short link for this page: [http://cs.co/git-berlin-2017](http://cs.co/git-berlin-2017)
+Berlin Short link for this page: [http://cs.co/git-berlin-2017](http://cs.co/git-berlin-2017)
+
+Melbourne Short link for this page: [http://cs.co/git-anz-2017](http://cs.co/git-anz-2017)
 
 # Spark Room
 
-* "CLEMEAR 2017 git help room"
+* "CLEMEAR and ANZ 2017 git help room"
 * Self-provision here: https://goo.gl/forms/ZHnu8w2tD7HRibLa2
 
 # Git Learning Labs
