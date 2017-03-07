@@ -1,5 +1,5 @@
 # Workshop and Classroom Resources
-Resources for those participating in my git sessions at Cisco Live EMEAR 2017 in Berlin
+Resources for those participating in my git sessions at Cisco Live EMEAR and ANZ 2017
 
 Short link for this page: [http://cs.co/git-berlin-2017](http://cs.co/git-berlin-2017)
 
